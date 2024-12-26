@@ -6,8 +6,6 @@
 
 <h2 align= "center"> Descrição </h2>
 
-Este programa foi desenvolvido pelos alunos **Caio Cezar Jotta Nogueira (202212094)**, **Daniel Monteiro de Carvalho (202212193)**, **Davi Costa Antunes Narcizo (202211007)**, **Gabriel Victor Martins Carvalho (202212175)** e **Yago da Costa Jardim Alves Braga (2022110004)** como parte do trabalho acadêmico da disciplina de **Fenômenos de Transporte**, ministrada pela professora **Ana Carolina Cellular Massone** no curso de **Engenharia de Software** da **Universidade de Vassouras**.
-
 O programa tem como objetivo calcular a temperatura interna de uma sala com base em diversos fatores, incluindo:
 
 - Dimensões da sala.
